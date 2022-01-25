@@ -14,12 +14,12 @@
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
     "express": "^4.17.2",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "6.0.2",
     "express-session": "^1.17.2",
     "method-override": "^3.0.0",
-    "mongoose": "^5.13.14",
+    "mongoose": "6.1.8",
     "moongoose": "0.0.5",
-    "passport": "^0.4.1",
+    "passport": "0.5.2",
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
